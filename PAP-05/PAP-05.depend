@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1459787218 source:g:\alpro\pap-05\main.c
+	"pustaka.h"
+
+1459782661 g:\alpro\pap-05\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1459787260 source:g:\alpro\pap-05\pustaka.c
+

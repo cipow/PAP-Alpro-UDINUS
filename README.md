@@ -1,2 +1,3 @@
-# hello-c
-first play
+Tugas mingguan ALGORITMA PEMROGRAMAN
+
+

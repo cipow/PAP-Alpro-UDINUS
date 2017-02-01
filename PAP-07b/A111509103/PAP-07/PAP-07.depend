@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1462956289 source:c:\users\wiryateja\downloads\pap-07\main.c
+	"pustaka.h"
+
+1462956289 source:c:\users\wiryateja\downloads\pap-07\pustaka.c
+
+1462956289 c:\users\wiryateja\downloads\pap-07\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
